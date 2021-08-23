@@ -1,4 +1,4 @@
-# Recommender_Systems
+# Movie-Recommender-Systems
 
 ![Python-version](https://img.shields.io/badge/Python-3.9.1-green.svg)
 
